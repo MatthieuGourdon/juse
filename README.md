@@ -3,7 +3,10 @@ Juse is a lightweight Bash function designed to manage multiple Java installatio
 
 
 ## Installation
-1. Copy the juse() function into your `~/.bashrc` file or this line in your `~/.bashrc`: `source ~/.local/bin/java_functions.sh`
+1. Copy the juse() function into your `~/.bashrc` file or this line in your `~/.bashrc`: 
+```Bash
+$ source ~/.local/bin/java_functions.sh
+```
 2. Reload your shell to apply the changes:
 ```Bash
 source ~/.bashrc
